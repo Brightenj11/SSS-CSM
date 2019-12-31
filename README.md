@@ -1,2 +1,2 @@
-# SSS-CSM
+# SSS-CSM (Self - similar solutions for circumstellar material)
 Code for "Extended Self-similar Solution for Circumstellar Material-Supernova Ejecta Interaction". This code reproduces the model presented in Jiang, Jiang, Villar 2019 (doi). We model the bolometric light curve of a supernova powered by the shock- heating of supernova ejecta interacting with pre-existing circumstellar material (a Type IIn supernova). This code has been implemented in MOSFiT (Guillochon et al. 2018) in the CSM engine.
